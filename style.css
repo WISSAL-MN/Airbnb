@@ -1,0 +1,100 @@
+body{
+margin-top:20px;
+background-image: url(https://pagtour.info/wp-content/uploads/2018/03/avion-airbnb.jpg);
+background-size: cover;
+font-family: sans-serif;
+}
+
+.begenning{
+    display: flex;
+    justify-content: space-evenly;
+}
+.begenning .h2{
+    color:#A82C3B;
+    font-size: 3em;
+    box-shadow: 10px 7px 7px #888888;
+    font-family:  sans-serif;
+    left: 250px;
+    margin-top: 0px;
+    
+}
+
+a{
+    color:#333;
+    font-size: bold;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.midel{
+     border-radius: 25px;
+     border:5px solid wheat ;
+     display: flex;
+     justify-content: space-evenly;
+     background-color: wheat;
+
+}
+.midel .f{
+    border-radius: 25px;
+    border:2px solid white;
+    background-color: white;
+    width: 250px;
+    text-align: center;
+
+
+}
+.midel .s{
+    border-radius: 25px;
+    border:2px solid white ;
+    background-color: white;
+    width: 250px;
+    text-align: center;
+
+}
+.midel .t{
+    border-radius: 25px;
+    border:2px solid white;
+    background-color: white;
+    width: 250px;
+    text-align: center;
+
+}.midel .f{
+
+    border-radius: 25px;
+    border:2px solid white;
+    background-color: white;
+    width: 250px;
+    text-align: center;
+
+}
+.midel .v{
+
+    border-radius: 25px;
+    border:2px solid#A82C3B;
+    background-color:#A82C3B;
+    color: white;
+    width: 250px;
+    text-align: center;
+    background-image: image("https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7b%2F0f%2Fa1%2F7b0fa1a701c509abeefea9beef8722bd.png&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F594897432019856490%2F&tbnid=NogtadEWftW1IM&vet=10CAsQxiAoAWoXChMIuPuwnuuq7QIVAAAAAB0AAAAAEAY..i&docid=fU05-37lBGM_MM&w=200&h=200&itg=1&q=address%20bar%20png%20vector%20search%20bar&hl=fr&ved=0CAsQxiAoAWoXChMIuPuwnuuq7QIVAAAAAB0AAAAAEAY");
+
+    
+}
+
+
+.end{
+    color:#333;
+    margin-top: 80px;
+    margin-inline-start: 20px;
+    font-size: 4em;
+    font-family: serif;
+}
+.thelaste{
+    border-radius:7px;
+    border:  7px solid wheat;
+    background-color:wheat;
+    width: 270px;
+    text-align: center;
+    margin-top: 15px;
+} 
+
